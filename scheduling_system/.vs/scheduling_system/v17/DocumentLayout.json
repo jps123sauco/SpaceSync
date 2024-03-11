@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{BF6F1090-010C-4D57-8E22-7A6413EE69A6}|scheduling_system.vbproj|c:\\users\\carly\\onedrive\\desktop\\spacesync\\scheduling_system\\src\\forms\\frm_main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{BF6F1090-010C-4D57-8E22-7A6413EE69A6}|scheduling_system.vbproj|solutionrelative:src\\forms\\frm_main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6F1090-010C-4D57-8E22-7A6413EE69A6}|scheduling_system.vbproj|c:\\users\\carly\\onedrive\\desktop\\spacesync\\scheduling_system\\src\\forms\\frm_main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{BF6F1090-010C-4D57-8E22-7A6413EE69A6}|scheduling_system.vbproj|solutionrelative:src\\forms\\frm_main.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frm_Main.vb",
+              "DocumentMoniker": "C:\\Users\\carly\\OneDrive\\Desktop\\SpaceSync\\scheduling_system\\Src\\Forms\\frm_Main.vb",
+              "RelativeDocumentMoniker": "Src\\Forms\\frm_Main.vb",
+              "ToolTip": "C:\\Users\\carly\\OneDrive\\Desktop\\SpaceSync\\scheduling_system\\Src\\Forms\\frm_Main.vb",
+              "RelativeToolTip": "Src\\Forms\\frm_Main.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-11T16:34:39.843Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -25,7 +42,7 @@
               "ToolTip": "C:\\Users\\carly\\OneDrive\\Desktop\\SpaceSync\\scheduling_system\\Src\\Forms\\frm_Main.vb [Design]",
               "RelativeToolTip": "Src\\Forms\\frm_Main.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-03-11T12:55:47.721Z",
+              "WhenOpened": "2024-03-11T14:53:19.696Z",
               "EditorCaption": " [Design]"
             }
           ]
